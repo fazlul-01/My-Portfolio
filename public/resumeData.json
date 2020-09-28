@@ -2,7 +2,7 @@
   "main": {
     "name": "Fazlul Kareem",
     "occupation": "Student @KCG College of Technology",
-    "description": "Full Stack React Developer by Day, Founder && Freelancer by Night",
+    "description": "Full Stack React Developer && Freelancer",
     "image": "Fazlul-pic.jpg",
     "bio": "My name is fazlul, I'm a Full Stack ReactJS Developer. Currently I'm a final year student at KCG College of Technology, Chennai.",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
@@ -35,7 +35,7 @@
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage": "",
     "education": [
       {
         "school": "KCG College of Technology",
